@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    font-family: sans-serif;
+    height: 100vh;
+    font-size: 60px;
+}
+#jamdigital {
+    background-color: white;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+    border: 5px solid transparent;
+    border-radius: 15px;
+    padding: 20px;
+}
